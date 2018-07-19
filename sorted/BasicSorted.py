@@ -1,4 +1,4 @@
-from Sorted.TestHelper import *
+from sorted.TestHelper import *
 
 def selet_sort(l):
     for i in range(len(l)):
